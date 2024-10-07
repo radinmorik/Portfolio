@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/DevScenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 99d86b083cb65fb4eb129ec9b0f050ba
+  - enabled: 1
+    path: Assets/Scenes/MapFloor01DEV.unity
+    guid: d1de1435cd533054ca75c5ddfd4952a3
+  - enabled: 1
+    path: Assets/Scenes/MapFloor02-03DEV.unity
+    guid: 353fa4170a8e33c46ac9602c5d8f4b3a
+  - enabled: 1
+    path: Assets/Scenes/MapShowcase.unity
+    guid: 72f1d745523e2834e9f8423c4f45f6ed
+  - enabled: 1
+    path: Assets/Scenes/MapFloor04DEV.unity
+    guid: d3634404b346dfa408b75d0cdd077d28
+  - enabled: 1
+    path: Assets/Scenes/MapLectureHall.unity
+    guid: fc4dfc198c0d27c419f492f95935d20b
+  - enabled: 1
+    path: Assets/Scenes/MapEnding_InfiniteBridgeDEV.unity
+    guid: f0b8ad0cc6443cd4cbcb6336b4035147
+  - enabled: 1
+    path: Assets/Scenes/MapEnding_Dream.unity
+    guid: fe9577c6d57ec2946b4614920356dc9e
+  - enabled: 1
+    path: Assets/Scenes/MapEnding_Eat.unity
+    guid: 3061f4be6374b4c4989ed13d68c97033
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: f714d69aca291bb4faaef509f1a45bfc,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 7a52881eefbe7274a854ed8ab5b50a2f,
+      type: 2}
