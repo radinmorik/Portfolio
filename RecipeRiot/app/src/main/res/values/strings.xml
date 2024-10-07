@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">RecipeRiot</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_ingredients">Ingredients</string>
+    <string name="nav_shopping">Shopping</string>
+    <string name="nav_settings">Settings</string>
+    <string name="nav_login">Login</string>
+    <string name="nav_favourites">Favourites</string>
+
+    <string name="username">Username: </string>
+    <string name="password">Password: </string>
+    <string name="login">Log in</string>
+
+    <string name="home_generate">Generate Recipe</string>
+    <string name="home_options">Options</string>
+    <string name="home_options_time">Time in minutes: </string>
+    <string name="home_ingredients">Ingredients</string>
+    <string name="nav_recipepage">recipepage</string>
+
+    <string name="language">Language</string>
+    <string name="norwegian">Norwegian</string>
+    <string name="english">English</string>
+
+    <string name="history">History</string>
+    <string name="prev_generate">Previously Generated</string>
+    <string name="save">Save</string>
+
+    <string name="cooktime">Preparation time: %1$s</string>
+    <string name="nutrition">Nutrition:</string>
+    <string name="calories">Calories: %1$s</string>
+    <string name="protein">Protein: %1$s</string>
+    <string name="carbohydrates">Carbohydrates: %1$s</string>
+    <string name="fat">Fat: %1$s</string>
+    <string name="ingredients">Ingredients:</string>
+    <string name="instructions">Instructions:</string>
+    <string name="clear">Clear</string>
+    <string name="log_out">Log out</string>
+    <string name="dark_theme">Dark theme</string>
+    <string name="ChatGPT_error">Error generating recipe with ChatGPT</string>
+    <string name="sign_in">Sign In</string>
+    <string name="search">Search</string>
+    <string name="add_an_ingredient">Add an ingredient</string>
+    <string name="email">Email</string>
+
+    <string name="snackbar_generate">Generating Recipe</string>
+    <string name="snackbar_generated">Recipe Generated</string>
+    <string name="snackbar_error">Error Generating Recipe</string>
+</resources>

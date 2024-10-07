@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RecipeRiot</string>
+    <string name="nav_home">Hjem</string>
+    <string name="nav_ingredients">Ingredienser</string>
+    <string name="nav_shopping">Handleliste</string>
+    <string name="nav_settings">Innstillinger</string>
+    <string name="nav_login">Logg inn</string>
+    <string name="nav_favourites">Favoritter</string>
+
+    <string name="username">Brukernavn: </string>
+    <string name="password">Passord: </string>
+    <string name="login">Logg inn</string>
+
+    <string name="home_generate">Generer Oppskrift</string>
+    <string name="home_options">Valg</string>
+    <string name="home_options_time">Tid i minutter: </string>
+    <string name="home_ingredients">Ingredienser</string>
+    <string name="nav_recipepage">Oppskriftsside</string>
+
+    <string name="language">Språk</string>
+    <string name="english">Engelsk</string>
+    <string name="norwegian">Norsk</string>
+
+    <string name="history">Historie</string>
+    <string name="prev_generate">Tidligere Generert</string>
+    <string name="save">Lagre</string>
+
+    <string name="cooktime">Tilberedningstid: %1$s</string>
+    <string name="nutrition">Næringsinnhold:</string>
+    <string name="calories">Kalorier: %1$s</string>
+    <string name="protein">Protein: %1$s</string>
+    <string name="carbohydrates">Karbohydrater: %1$s</string>
+    <string name="fat">Fett: %1$s</string>
+    <string name="ingredients">Ingredienser:</string>
+    <string name="instructions">Instruksjoner:</string>
+    <string name="clear">Slett</string>
+    <string name="log_out">Logg ut</string>
+    <string name="dark_theme">Dark theme</string>
+    <string name="ChatGPT_error">Feil i genereringen av oppskrift fra chatGPT</string>
+    <string name="sign_in">Logg inn</string>
+    <string name="search">Søk</string>
+    <string name="add_an_ingredient">Legg til ingrediens</string>
+    <string name="email">Email</string>
+
+    <string name="snackbar_generate">Genererer Oppskrift</string>
+    <string name="snackbar_generated">Oppskrift Generert</string>
+    <string name="snackbar_error">Oppskriftgenerering Feilet</string>
+</resources>
